@@ -42,6 +42,7 @@
 - [RIP-7560: Native Account Abstraction](https://ethereum-magicians.org/t/rip-7560-native-account-abstraction/16664)
 - [EIP-7377: (AA) Migration Transaction](https://eips.ethereum.org/EIPS/eip-7377)
 - [ERC-7579: Minimal Modular Smart Accounts](https://eips.ethereum.org/EIPS/eip-7579)
+- [ERC-7679: UserOperation Builder](https://eips.ethereum.org/EIPS/eip-7679)
 
 ### EIP Articles & Discussions
 
